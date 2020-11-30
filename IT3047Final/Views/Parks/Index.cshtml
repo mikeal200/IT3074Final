@@ -1,0 +1,42 @@
+﻿@model IEnumerable<IT3047Final.Models.Park>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Parks</h1>
+
+<p>
+    <a asp-action="Create">Add Park</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.parkName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.parkAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.parkRating)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.parkName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.parkAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.parkRating)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
