@@ -151,3 +151,4 @@ C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\IT
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Parks\Index.cshtml.g.cs
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Parks\Create.cshtml.g.cs
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mushrooms.cshtml.g.cs
+C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Index.cshtml.g.cs
