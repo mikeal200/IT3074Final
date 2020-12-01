@@ -153,3 +153,4 @@ C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Ra
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mushrooms.cshtml.g.cs
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Index.cshtml.g.cs
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Create.cshtml.g.cs
+C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Home\NaturePhotos.cshtml.g.cs
