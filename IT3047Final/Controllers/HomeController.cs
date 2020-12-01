@@ -23,7 +23,7 @@ namespace IT3047Final.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Mushrooms()
         {
             return View();
         }

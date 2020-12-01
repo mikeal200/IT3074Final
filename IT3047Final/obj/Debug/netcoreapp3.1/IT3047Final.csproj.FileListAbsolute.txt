@@ -18,7 +18,6 @@ C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\IT
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\IT3047Final.TagHelpers.output.cache
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\IT3047Final.RazorCoreGenerate.cache
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -151,3 +150,4 @@ C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\IT
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\IT3047Final.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Parks\Index.cshtml.g.cs
 C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Parks\Create.cshtml.g.cs
+C:\Users\Michael\source\repos\IT3047Final\IT3047Final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mushrooms.cshtml.g.cs
