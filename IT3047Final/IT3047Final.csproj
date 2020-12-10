@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\images\mushrooms\" />
+    <Folder Include="wwwroot\images\top10\" />
   </ItemGroup>
 
   <ItemGroup>

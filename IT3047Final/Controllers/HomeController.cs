@@ -33,6 +33,11 @@ namespace IT3047Final.Controllers
             return View();
         }
 
+        public IActionResult TopTen()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
